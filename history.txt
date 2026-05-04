@@ -1,0 +1,15 @@
+1  git clone git@github.com:Lwandle-007/student_sub_system.git
+    2  git clone git@github.com:Lwandle-007/student_sub_system.git
+    3  cd student_sub_system.git
+    4  cd student_sub_system
+    5  code .
+    6  touch index.html about.html history.txt
+    7  stage
+    8  git stage
+    9  git add .
+   10  git status
+   11  git commit -m "3 new files added to student_sub_system"
+   12  cd history.txt
+   13  ls .
+   14  /history.txt
+   15  history
